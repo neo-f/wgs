@@ -1,0 +1,2 @@
+# wgs
+WireGuard Server **WIP**
